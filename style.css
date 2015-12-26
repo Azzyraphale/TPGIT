@@ -5,3 +5,9 @@ body {
 	padding-top:150px;
 	font-family: Oswald;
 }
+
+div {
+	-moz-columns: 3 100px;
+	-webkit-columns: 3 100px;
+	columns: 3 100px;
+}
